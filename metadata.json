@@ -1,0 +1,5 @@
+{
+  "name": "AURADECOR.AI",
+  "description": "An AI-powered interior design studio that analyzes floorplans, generates photorealistic room designs, provides material breakdowns, and helps source suppliers. Upload a floorplan to begin creating your perfect space.",
+  "requestFramePermissions": []
+}
